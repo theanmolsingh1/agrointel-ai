@@ -51,16 +51,6 @@ Agricultural productivity is constantly threatened by pests, diseases, and unpre
 
 ---
 
-## 📊 Development Phases
-
-| Phase | Description | Status |
-|-------|-------------|--------|
-| Phase 1 | Drone and sensor data integration; AI model development | ✅ Completed |
-| Phase 2 | Dashboard UI development; Alert and recommendation engine | 🚧 In Progress |
-| Phase 3 | Field testing and full deployment | 🔜 Planned |
-
----
-
 ## 🌟 Key Benefits
 
 - **📈 Increased Crop Yield** through timely and informed actions  
